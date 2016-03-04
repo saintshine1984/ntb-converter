@@ -1,0 +1,42 @@
+{
+  "name": "ntb-converter",
+  "authors": [
+    "saintshine84 <saintshine84@gmail.com>"
+  ],
+  "description": "new line to br tag",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "newline",
+    "br",
+    "tag",
+    "convert"
+  ],
+  "main": "ntb-converter.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/<USERNAME>/ntb-converter/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "jquery": "~2.2.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  },
+  "_release": "1448d2d86e",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1448d2d86e18646ad91c740d2851542157969514"
+  },
+  "_source": "git://github.com/saintshine84/ntb-converter.git",
+  "_target": "master",
+  "_originalSource": "saintshine84/ntb-converter",
+  "_direct": true
+}
